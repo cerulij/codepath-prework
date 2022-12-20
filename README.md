@@ -3,3 +3,5 @@
 - Student: **Juan Ceruli**
 
 - School: **Northeastern University**
+
+![](ceruli_prework.gif)
