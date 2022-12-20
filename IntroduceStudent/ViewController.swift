@@ -48,11 +48,11 @@ class ViewController: UIViewController {
         alertController.addAction(action)
         
         present(alertController, animated: true, completion: nil)
-        
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+
 }
