@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         
         let introduction = """
         My name is \(firstNameTextField.text!) \(lastNameTextField.text!) and I attend \(schoolNameTextField.text!).
-        I am currently in my \(year!) year of my \(degree!) degree and I own \(numberOfPetsLabel.text!) dogs.
+        I'm currently in my \(year!) year of my \(degree!) degree and I own \(numberOfPetsLabel.text!) dogs.
         It is \(morePetsSwitch.isOn) that I want more pets.
         """
         
