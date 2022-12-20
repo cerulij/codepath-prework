@@ -4,4 +4,8 @@
 
 - School: **Northeastern University**
 
+- Term: **Spring 2023**
+
+- Walkthrough gif:
+
 ![](ceruli_prework.gif)
