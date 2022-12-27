@@ -2,7 +2,9 @@
 
 ### App Description
 
-This is an iOS app that allows users to introduce themselves.
+This is an iOS app that allows users to introduce themselves by communicating their first name, last name, school, degree type, school year, number of pets, and willingness to have more pets.
+
+It’s part of the pre-work for Codepath’s IOS102 course for Spring 2023.
 
 ### App Walk-through
 
